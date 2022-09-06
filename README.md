@@ -1,4 +1,4 @@
-LINK: https://Viki2022.github.io/Project_Shelter/
+LINK: https://Viki2022.github.io/Project_Shelter/pages/main/
 
 Задача: Shelter - это проект, в котором вам предстоит сверстать сайт, состоящий из двух страниц, сделать его адаптивным и интерактивным.
 
